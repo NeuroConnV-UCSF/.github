@@ -10,7 +10,7 @@ Team:
 * [Molly Olzinski](https://memory.ucsf.edu/people/molly-olzinski)
 * [Dana Leichter](https://memory.ucsf.edu/people/dana-leichter)
 
-We are a part of the [UCSF Memory and Aging Center](memory.ucsf.edu)
+We are a part of the [UCSF Neurology (Memory and Aging Center)](memory.ucsf.edu)
 
 <!--
 

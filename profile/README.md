@@ -11,10 +11,10 @@ Team:
 * [Dana Leichter](https://memory.ucsf.edu/people/dana-leichter)
 
 We are a part of the [UCSF Neurology (Memory and Aging Center)](memory.ucsf.edu)
-* ALBA Lab
-* Dyslexia Center
-* Multitudes
-* MAC Imaging Core
+* [ALBA Lab](https://albalab.ucsf.edu/)
+* [UCSF Dyslexia Center](https://dyslexia.ucsf.edu/)
+* [Multitudes](https://dyslexia.ucsf.edu/multitudes-partners)
+* [MAC Imaging Core](https://memory.ucsf.edu/fields-interest/imaging)
 
 <!--
 

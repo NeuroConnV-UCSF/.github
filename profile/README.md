@@ -5,10 +5,10 @@ Our research program aims to understand the neural basis of language and cogniti
 Our work focus on the development of automated algorithms for white matter tractography, structural and functional imaging processing. These techniques offer a more comprehensive approach to clinical research and have led to clinically relevant discoveries and influential publications in areas highly relevant to our patient populations.
 
 Team: 
-* [Dr. Maria Luisa Mandelli]
-* [Janhavi Pillai]
-* [Molly Olzinski]
-* [Dana Leichter]
+* [Dr. Maria Luisa Mandelli, PhD](https://memory.ucsf.edu/people/malu-mandelli-phd)
+* [Janhavi Pillai](https://memory.ucsf.edu/people/janhavi-pillai)
+* [Molly Olzinski](https://memory.ucsf.edu/people/molly-olzinski)
+* [Dana Leichter](https://memory.ucsf.edu/people/dana-leichter)
 
 We are a part of the [UCSF Memory and Aging Center](memory.ucsf.edu)
 

@@ -8,7 +8,9 @@ Team:
 * [Dr. Maria Luisa Mandelli]
 * [Janhavi Pillai]
 * [Molly Olzinski]
-* [Dana Leichter] 
+* [Dana Leichter]
+
+We are a part of the [UCSF Memory and Aging Center](memory.ucsf.edu)
 
 <!--
 

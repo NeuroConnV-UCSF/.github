@@ -16,6 +16,16 @@ We are a part of the [UCSF Neurology (Memory and Aging Center)](memory.ucsf.edu)
 * [Multitudes](https://dyslexia.ucsf.edu/multitudes-partners)
 * [MAC Imaging Core](https://memory.ucsf.edu/fields-interest/imaging)
 
+&nbsp;  
+&nbsp;  
+
+<p float="left">
+  <img src="/assets/weillmac_logo.png" width="270" />
+  <img src="/assets/weillneurosurgery_logo.png" width="270" />
+   <img src="/assets/dyslexiacenter_logo.png" width="170" />
+  <img src="/assets/multitudes_logo1.png" width="230" />
+  <img src="/assets/berkeley.png" width="230" />
+</p>
 <!--
 
 **Here are some ideas to get you started:**

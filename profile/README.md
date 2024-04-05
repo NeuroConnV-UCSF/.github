@@ -17,11 +17,10 @@ We are a part of the [UCSF Neurology (Memory and Aging Center)](memory.ucsf.edu)
 * [MAC Imaging Core](https://memory.ucsf.edu/fields-interest/imaging)
 
 &nbsp;  
-&nbsp;  
 
 <p float="left">
   <img src="/assets/weillmac_logo.png" width="270" />
-   <img src="/assets/dyslexiacenter_logo.png" width="270" />
+  <img src="/assets/dyslexiacenter_logo.png" width="270" />
   <img src="/assets/multitudes_logo.png" width="270" />
   <img src="/assets/berkeley_logo.png" width="270" />
 </p>

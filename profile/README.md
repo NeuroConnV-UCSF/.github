@@ -22,8 +22,8 @@ We are a part of the [UCSF Neurology (Memory and Aging Center)](memory.ucsf.edu)
 <p float="left">
   <img src="/assets/weillmac_logo.png" width="270" />
    <img src="/assets/dyslexiacenter_logo.png" width="170" />
-  <img src="/assets/multitudes_logo1.png" width="230" />
-  <img src="/assets/berkeley.png" width="230" />
+  <img src="/assets/multitudes_logo.png" width="230" />
+  <img src="/assets/berkeley_logo.png" width="230" />
 </p>
 <!--
 
